@@ -42,9 +42,9 @@ function LinkedList() {
       head = currentNode.next;
     } else {
       // check element is equal to element in the list
-      while (currentNode.element !== element) {
+      while(currentNode.element !== element) {
         previousNode = currentNode;
-        currentNode = currentNode.next;
+        currentNode = currentNode.next; 
       }
       previousNode.next = currentNode.next;
     }
@@ -152,3 +152,5 @@ linkedList.addAt(6, 1);
 console.log(linkedList.elementAt(1));
 linkedList.removeAt(1);
 console.log(linkedList.elementAt(1));
+console.log(linkedList.head());
+

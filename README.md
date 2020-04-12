@@ -31,4 +31,3 @@ _**10 Common Data Structures**_:
 ### Contact
 * Name: Lê Thanh Sơn.
 * link facebook: https://facebook.com/lethanhson.wist0514 .
-* Theory, reference and exercises: https://www.freecodecamp.org/news/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b/
